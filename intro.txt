@@ -1,0 +1,29 @@
+Basics of Python
+
+
+1- Function - A function is something which is created to do some task.
+
+2- Anthing which is in the form of   xyz(arguments)  is considered as a function.
+
+3- In the compiler every files runs completely from top to bottom.
+
+4- To specify a string we need to put it in inverted(' '," ") commas.
+
+5- functions we have covered--
+
+-- print()
+--type()
+--input()
+--id()
+
+
+6- Arthmetic Operators--
+
+-addition
+--subtraction
+--multiplication
+--division
+--exponentiation
+--modulus
+
+7- Comparison Operators -- important
